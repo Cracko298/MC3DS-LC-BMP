@@ -1,0 +1,6 @@
+{
+    "name": "LunaCore BMP to 3DST Converter",
+    "description": "A bitmap to 3DST Converter for usage with LunaCore and Minecraft 3DS in realtime.",
+    "version": "1.0.0",
+    "dependencies": ["LunaCoreAPI"]
+}
