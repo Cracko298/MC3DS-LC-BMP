@@ -1,2 +1,2 @@
 # MC3DS-LC-BMP
-Converts 32-Bitmaps (BMP Images) while in-game into 3DST Textures, using LunaCoreAPI.
+- Converts 32-Bit bitmap images (`*.bmp`) into Minecraft 3DS' `*.3dst` RGBA8 Format in-game and in realtime.
